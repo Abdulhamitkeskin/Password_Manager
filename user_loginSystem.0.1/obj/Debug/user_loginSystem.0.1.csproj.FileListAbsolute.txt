@@ -1,0 +1,14 @@
+C:\Users\Abdulhamit keskin\source\repos\user_loginSystem.0.1\user_loginSystem.0.1\bin\Debug\user_loginSystem.0.1.exe.config
+C:\Users\Abdulhamit keskin\source\repos\user_loginSystem.0.1\user_loginSystem.0.1\bin\Debug\user_loginSystem.0.1.exe
+C:\Users\Abdulhamit keskin\source\repos\user_loginSystem.0.1\user_loginSystem.0.1\bin\Debug\user_loginSystem.0.1.pdb
+C:\Users\Abdulhamit keskin\source\repos\user_loginSystem.0.1\user_loginSystem.0.1\obj\Debug\user_loginSystem.0.1.csproj.AssemblyReference.cache
+C:\Users\Abdulhamit keskin\source\repos\user_loginSystem.0.1\user_loginSystem.0.1\obj\Debug\user_loginSystem._0._1.Properties.Resources.resources
+C:\Users\Abdulhamit keskin\source\repos\user_loginSystem.0.1\user_loginSystem.0.1\obj\Debug\user_loginSystem.0.1.csproj.GenerateResource.cache
+C:\Users\Abdulhamit keskin\source\repos\user_loginSystem.0.1\user_loginSystem.0.1\obj\Debug\user_loginSystem.0.1.csproj.CoreCompileInputs.cache
+C:\Users\Abdulhamit keskin\source\repos\user_loginSystem.0.1\user_loginSystem.0.1\obj\Debug\user_loginSystem.0.1.exe
+C:\Users\Abdulhamit keskin\source\repos\user_loginSystem.0.1\user_loginSystem.0.1\obj\Debug\user_loginSystem.0.1.pdb
+C:\Users\Abdulhamit keskin\source\repos\user_loginSystem.0.1\user_loginSystem.0.1\obj\Debug\user_loginSystem._0._1.HesapOlustur.resources
+C:\Users\Abdulhamit keskin\source\repos\user_loginSystem.0.1\user_loginSystem.0.1\obj\Debug\user_loginSystem._0._1.GirisYap.resources
+C:\Users\Abdulhamit keskin\source\repos\user_loginSystem.0.1\user_loginSystem.0.1\obj\Debug\user_loginSystem._0._1.NumaraMesaj.resources
+C:\Users\Abdulhamit keskin\source\repos\user_loginSystem.0.1\user_loginSystem.0.1\obj\Debug\user_loginSystem._0._1.KullaniciSozlesmesi.resources
+C:\Users\Abdulhamit keskin\source\repos\user_loginSystem.0.1\user_loginSystem.0.1\obj\Debug\user_loginSystem._0._1.KullaniciEkrani.resources
